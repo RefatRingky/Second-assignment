@@ -250,9 +250,9 @@ a {
 .footer-text{
     font-size: 20px;
 }
-.footer img{
-  background-color: azure;
-}
+/* .footer img{
+  background-color: white;
+} */
 .fab-icon{
     column-gap: 50px;
     padding-top: 10px;
